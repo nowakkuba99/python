@@ -1,0 +1,4 @@
+# Genetic Algorithm
+Start with random population than by crossing and mutating on binary representation of genes create new population and show the results on 3D graph
+
+Top desing file - DisplayFunc.py
